@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1046764_collec_0.admin" name="x_1046764_collec_0.admin">0222a3e4933002108b1d7fddfaba1010</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 00:04:33</sys_created_on>
+        <sys_id>d1dfbe5f9395c2108b1d7fddfaba104d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1046764_collec_0.admin</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1046764_collec_0">4a22a3e4933002108b1d7fddfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">4a22a3e4933002108b1d7fddfaba1007</sys_scope>
+        <sys_update_name>sys_user_role_contains_d1dfbe5f9395c2108b1d7fddfaba104d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 00:04:33</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

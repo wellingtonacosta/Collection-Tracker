@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Collection Tracker">c0df3e5fe995c21078adad7c3819bb6a</dashboard>
+        <experience display_value="Collection Tracker">80df3e5fa695c21057850a2b1ccd7371</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 00:04:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>88df3e5fe695c210372cbf3a31761469</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_1046764_collec_0">4a22a3e4933002108b1d7fddfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">4a22a3e4933002108b1d7fddfaba1007</sys_scope>
+        <sys_update_name>par_dashboard_visibility_88df3e5fe695c210372cbf3a31761469</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 00:04:28</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>
