@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 00:04:33</sys_created_on>
+        <sys_id>91dfbe5f9395c2108b1d7fddfaba1046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.1046764.collection-tracker.*.x_1046764_collec_0.user</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1046764_collec_0">4a22a3e4933002108b1d7fddfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">4a22a3e4933002108b1d7fddfaba1007</sys_scope>
+        <sys_security_acl display_value="x.1046764.collection-tracker.*">80df3e5f8895c2103044c50523676868</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_91dfbe5f9395c2108b1d7fddfaba1046</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 00:04:33</sys_updated_on>
+        <sys_user_role display_value="x_1046764_collec_0.user" name="x_1046764_collec_0.user">8e22a3e4933002108b1d7fddfaba1046</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

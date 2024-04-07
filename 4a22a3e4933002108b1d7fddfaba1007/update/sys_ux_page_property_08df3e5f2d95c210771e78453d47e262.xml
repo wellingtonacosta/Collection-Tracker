@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Collection Tracker">80df3e5fa695c21057850a2b1ccd7371</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 00:04:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>08df3e5f2d95c210771e78453d47e262</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1046764_collec_0">4a22a3e4933002108b1d7fddfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">4a22a3e4933002108b1d7fddfaba1007</sys_scope>
+        <sys_update_name>sys_ux_page_property_08df3e5f2d95c210771e78453d47e262</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 00:04:29</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1046764_collec_0.80df3e5fa695c21057850a2b1ccd7371.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=08df3e5f2d95c210771e78453d47e262"/>
+</record_update>
